@@ -3,7 +3,7 @@
 
 💻 I tinker with code, sometimes break things, and occasionally even fix them.  
 🎯 Always exploring new tech and figuring out how stuff works.  
-💡 Have programming language suggestions? Hit me up on Discord!  
+🐈‍⬛ Also, I have a cat named **Salma**!  
 
 ---
 
@@ -17,6 +17,14 @@
 | ⚡ JavaScript | ehh not really 🤷‍♂️ |
 | 🌐 HTML | Pretty Much ✅ |
 | 🎨 CSS | Pretty Much ✅ |
+
+---
+
+### 🏠 **About Me & Salma**  
+🇫🇷 I live in **France** in an apartment.  
+🐾 My cat, **Salma**, is a **tortoiseshell** beauty with a black coat.  
+😺 She’s a bit **shy** but sometimes sleeps with me.  
+🖥️ She *also* enjoys **messing with my code**—but mostly brings happiness.  
 
 ---
 
